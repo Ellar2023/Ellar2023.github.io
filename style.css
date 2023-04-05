@@ -1,0 +1,14 @@
+body {
+	background-color:#D2E8FF;
+}
+
+img {
+	border: 7px;
+	border-style: ridge;
+	border-color:#3DA9E4;
+	border-radius: 5%;
+}
+
+a:hover {
+	color: whitesmoke;
+}
